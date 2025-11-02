@@ -1,7 +1,8 @@
 # Hi There! 👋
 ### ✨ About Me ✨
 
-* 🎓 I'm a student in the Honors Program at HCM University of Science, with a deep passion for Mathematics and Computer Science.
+🎓 I am a student in the Honors Program at HCM University of Science, with a deep passion for Mathematics and Computer Science. 
+💻 I am actively learning so I have tried my best to finish my university program at HCMUS. Furthermore, I also want to widen my network and expplore more about current major technology trends.  
 
 
 ### Connect with me 📧
