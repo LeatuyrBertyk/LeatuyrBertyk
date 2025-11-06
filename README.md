@@ -19,9 +19,12 @@
 
 <h2 align="center">📊 Activities in Github 📊</h2>
 
+<p align="center">
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeatuyrBertyk&show_icons=true&theme=dracula)](https://github.com/LeatuyrBertyk)
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeatuyrBertyk&layout=compact&theme=dracula)](https://github.com/LeatuyrBertyk)
+</p>
 
 ---
 ![](https://komarev.com/ghpvc/?username=LeatuyrBertyk&style=for-the-badge)
