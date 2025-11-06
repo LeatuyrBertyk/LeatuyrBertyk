@@ -30,4 +30,4 @@
 </p>
 
 ---
-![](https://komarev.com/ghpvc/?username=LeatuyrBertyk&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=LeatuyrBertyk&style=flat-square)
