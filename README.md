@@ -30,4 +30,4 @@
 </p>
 
 ---
-<img src="https://komarev.com/ghpvc/?username=leatuyrBertyk&style=for-the-badge" width="300" alt="GitHub Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=leatuyrBertyk&style=for-the-badge" width="200" alt="GitHub Profile Views"/>
