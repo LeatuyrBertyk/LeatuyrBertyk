@@ -30,4 +30,4 @@
 </p>
 
 ---
-![](https://komarev.com/ghpvc/?username=LeatuyrBertyk&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=leatuyrBertyk&style=for-the-badge" width="300" alt="GitHub Profile Views"/>
