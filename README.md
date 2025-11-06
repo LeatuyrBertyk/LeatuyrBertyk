@@ -6,11 +6,11 @@
 💻 I am actively learning so I have tried my best to finish my university program at HCMUS. Furthermore, I also want to widen my network and explore more about current major technology trends.  
 
 <h2 align="center">📧 Connect with me 📧</h2>
-<p align="center">
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phangialoc07@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/phan.gia.loc.440074/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gia-loc-phan-256510304/)
-</p>
+
 
 <h2 align="center">🎓 Languages 🎓</h2>
 <p align="center">
@@ -21,9 +21,7 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeatuyrBertyk&show_icons=true&theme=dracula)](https://github.com/LeatuyrBertyk)
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=*LeatuyrBertyk&layout=compact&theme=dracula)](https://github.com/LeatuyrBertyk)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeatuyrBertyk&layout=compact&theme=dracula)](https://github.com/LeatuyrBertyk)
 
 ---
-<p align="center">
-  <img src="https://profile-counter.glitch.me/LeatuyrBertyk/count.svg" />
-</p>
+![](https://komarev.com/ghpvc/?username=LeatuyrBertyk&style=for-the-badge)
