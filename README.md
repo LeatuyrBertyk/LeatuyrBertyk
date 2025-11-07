@@ -1,4 +1,5 @@
-<h1 align="center">Hi There! 👋</h1>
+
+<h1>Hi There! 👋</h1>
 <h2 align ="center">✨ About Me ✨</h2>
 
 🎓 I am a student in the Honors Program at HCM University of Science, with a deep passion for Mathematics and Computer Science. 
