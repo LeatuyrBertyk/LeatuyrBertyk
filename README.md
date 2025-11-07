@@ -1,12 +1,32 @@
+<div align="center">
+<img src="https://github.com/LeatuyrBertyk/LeatuyrBertyk/blob/main/ascii-art-text.png" width="800" alt="GitHub Profile Views"/>
+</div>
 
-<h1>Hi There! 👋</h1>
-<h2 align ="center">✨ About Me ✨</h2>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gia+Loc+Phan!;" />
+</h1>
+
+<h2>✨ About Me ✨</h2>
 
 🎓 I am a student in the Honors Program at HCM University of Science, with a deep passion for Mathematics and Computer Science. 
 
 💻 I am actively learning so I have tried my best to finish my university program at HCMUS. Furthermore, I also want to widen my network and explore more about current major technology trends.  
 
-<h2 align="center">✉️ Connect with me ✉️</h2>
+<img src="https://komarev.com/ghpvc/?username=leatuyrBertyk&style=for-the-badge" width="160" alt="GitHub Profile Views"/> <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/LeatuyrBertyk?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+
+---
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=LeatuyrBertyk&hide_title=true&show_icons=true&theme=transparent&include_all_commits=true"/></picture></a>
+  <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=LeatuyrBertyk&hide_title=false&layout=compact&theme=transparent&count_private=true" /></picture></a>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Gia+Loc+Phan" alt="PGL" /></a>
+  <a href="https://github.com/LeatuyrBertyk/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 <div align="center">
     
@@ -16,19 +36,45 @@
 
 </div>
 
-<h2 align="center">🎓 Languages 🎓</h2>
-<p align="center">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-</p>
+<h2>💻 Languages and technologies</h2>
 
-<h2 align="center">📊 Activities in Github 📊</h2>
-
-<p align="center">
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeatuyrBertyk&show_icons=true&theme=dracula)](https://github.com/LeatuyrBertyk)
-
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeatuyrBertyk&layout=compact&theme=dracula)](https://github.com/LeatuyrBertyk)
-</p>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="Cpp Icon" width="80" height="80" />
+      <br>CPP
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C Icon" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github Icon" width="45" height="645" />
+      </a>
+      <br>Github
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git Icon" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=latex&perline=4" alt="LaTeX Icon" width="45"/>
+      <br>LaTeX
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vim&perline=4" alt="Vim Editor Icon" width="45"/>
+      <br>VIM
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VsCode Icon" />
+      <br>VsCode
+    </td>
+</table>
+</div>
 
 ---
-<img src="https://komarev.com/ghpvc/?username=leatuyrBertyk&style=for-the-badge" width="200" alt="GitHub Profile Views"/>
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
